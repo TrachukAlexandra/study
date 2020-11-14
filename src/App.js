@@ -5,6 +5,7 @@ import Profile from './components/Profile';
 import Header from './components/Header';
 import Nav from './components/Nav';
 console.log(2);
+console.log(3);
 
 
 const App = () => {
