@@ -6,6 +6,7 @@ import Header from './components/Header';
 import Nav from './components/Nav';
 console.log(2);
 console.log(3);
+console.log(4);
 
 
 const App = () => {
